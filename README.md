@@ -29,6 +29,8 @@ Requirements:
  Autotiling: pacman -S autotiling (install it from distro's repository)
 
  ------------If you have any doubts, you can ask me in the "issues" section------------
-	![image](https://github.com/user-attachments/assets/c18c1e8f-ffe8-46ce-b9ac-bd3c6d8e3634)
- ![image](https://github.com/user-attachments/assets/9c77d8b7-279e-45e8-9f30-ab852af5b54d)
+
+![image](https://github.com/user-attachments/assets/2a34d0f5-70e3-4c28-aa67-57a01914c728)
+![image](https://github.com/user-attachments/assets/c53b544e-b5d9-4aeb-9ff7-ad3f9f0db611)
+
 
