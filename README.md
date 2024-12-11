@@ -1,5 +1,3 @@
-Requirements:
-	
  Alacritty-Themes: https://github.com/alacritty/alacritty-theme
 	
  Neofetch-Themes: https://github.com/Chick2D/neofetch-themes
